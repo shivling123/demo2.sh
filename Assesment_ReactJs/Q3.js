@@ -18,7 +18,7 @@ function App() {
 
     return (
         <div>
-            <h1>even number is : {arr3}</h1>
+            <h1>repeted number is : {arr3}</h1>
         </div>
     );
 }
